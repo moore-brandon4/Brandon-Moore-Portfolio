@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    margin: 10px;;
+    color: white
+}
+
+h2,h3{
+    color:white
+}
+
+p{
+    text-align: center;
+    color:white
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    background-color:rgb(201, 201, 201);
+  }
+
+  body {
+    background-image: url("https://www.wallpapertip.com/wmimgs/32-325750_subscription-library-abstract-dark-animated-background-dark-grey.jpg");
+    
+  }
+
+  
