@@ -1,5 +1,5 @@
 # Brandon-Moore-Portfolio
-Portfolio/Resume for Brandon Moore
+Portfolio/Resume for Brandon Moore: https://brandon-moore-portfolio.herokuapp.com/
 
 Senior Capstone Project
 https://brandon-moore-capstone-project.herokuapp.com/
