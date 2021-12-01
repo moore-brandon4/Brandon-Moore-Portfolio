@@ -14,13 +14,10 @@ def index():
 def resume():                    
     return render_template("resume.html")
     
-@portfolio.route("/programming")                          
-def programming():                    
-    return render_template("programming.html")
 
-@portfolio.route("/development")                          
-def development():                    
-    return render_template("development.html")        
+@portfolio.route("/filesanddemos")                          
+def filesanddemos():                    
+    return render_template("filesanddemos.html")        
 
 
 if __name__ == "__main__":         
