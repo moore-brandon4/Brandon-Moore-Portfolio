@@ -14,3 +14,7 @@ This is a demo of my GUI Development final project in which I developed that wou
 GUI Assignments Folder
 https://github.com/moore-brandon4/Brandon-Moore-Portfolio/tree/main/GUI%20Assignments
 This folder conveys the apps I developed while being instructed during my GUI course.
+
+
+Note:
+Much of the work I have done with other programs had been lost on an external hard drive that was misplaced. 
