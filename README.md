@@ -10,3 +10,7 @@ For this project, I chose to develop a website that would allow someone on the C
 GUI Final Project Demo
 https://github.com/moore-brandon4/Brandon-Moore-Portfolio/blob/main/GUI%20Final%20Project.mkv
 This is a demo of my GUI Development final project in which I developed that would be "The Perfect Food Search." This app is designed to display options from various restaurant after receiving two user input parameters.
+
+GUI Assignments Folder
+https://github.com/moore-brandon4/Brandon-Moore-Portfolio/tree/main/GUI%20Assignments
+This folder conveys the apps I developed while being instructed during my GUI course.
